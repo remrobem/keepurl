@@ -11,7 +11,7 @@ const NavBar = () => {
                 <ToolBar>
                     <Typography variant="title" color="inherit">
                         Keepurl
-            </Typography>
+                    </Typography>
                 </ToolBar>
             </AppBar>
         </div>
